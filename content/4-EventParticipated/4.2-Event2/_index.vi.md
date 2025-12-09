@@ -71,5 +71,5 @@ Em cũng ấn tượng với góc nhìn thực tế về **chi phí và MLOps**.
 Buổi workshop kết thúc với cảm giác **"có thể làm được"**. Thay vì choáng ngợp trước những thuật ngữ phức tạp, em cảm thấy mình đã có một bản đồ (roadmap) rõ ràng để bắt đầu hành trình khám phá AI/ML trên AWS, từ những bước thực hành nhỏ nhất.
 
 #### Một số hình ảnh khi tham gia sự kiện
-![anh1 event](/images/event-image1.png)
-![anh2 event](/images/event-image2.png)
+![anh1 event](/images/4-Event/event-image1.png)
+![anh2 event](/images/4-Event/event-image2.png)

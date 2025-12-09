@@ -78,5 +78,5 @@ Em cũng đặc biệt thích phần chia sẻ về **văn hóa DevOps và các 
 Buổi học kết thúc với cảm giác **được trang bị một "bộ công cụ" tinh thần đầy đủ hơn**. Em nhận ra rằng để trở thành một kỹ sư phần mềm giỏi, ngoài việc viết code tốt, cần phải hiểu biết về toàn bộ vòng đời của phần mềm - từ ý tưởng, code, cho đến vận hành và học hỏi từ sự cố.
 
 #### Một số hình ảnh khi tham gia sự kiện
-![anh3 event](/images/event-image3.png)
-![anh4 event](/images/event-image4.png)
+![anh3 event](/images/4-Event/event-image3.png)
+![anh4 event](/images/4-Event/event-image4.png)

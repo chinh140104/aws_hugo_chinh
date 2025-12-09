@@ -86,7 +86,5 @@ I was also impressed by the speakers' constant emphasis that **"Security is ever
 The session ended with a feeling of **greater responsibility**. I realized I need to proactively learn and apply security principles from my smallest projects, as a single misconfiguration in the cloud can lead to significant consequences within minutes.
 
 #### Some photos from the event
-*   (Image of the overview slide for the 5 pillars of the AWS Well-Architected Security Pillar)
-*   (Screenshot of the IAM Policy Simulator and Access Analyzer demo)
-*   (Image of the detailed Incident Response (IR) playbook diagram)
-*   (Commemorative photo with speakers at the end of the session)
+![anh5 event](/images/4-Event/event-image5.png)
+![anh6 event](/images/4-Event/event-image6.png)

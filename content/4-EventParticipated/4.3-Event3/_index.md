@@ -79,5 +79,5 @@ I also particularly enjoyed the sessions on **DevOps culture and case studies**.
 The workshop concluded with the feeling of being **equipped with a more complete "mental toolkit."** I realized that to become a proficient software engineer, beyond writing good code, one must understand the entire software lifecycle—from idea and code to operations and learning from incidents.
 
 #### Some photos from the event
-![anh3 event](/images/event-image3.png)
-![anh4 event](/images/event-image4.png)
+![anh3 event](/images/4-Event/event-image3.png)
+![anh4 event](/images/4-Event/event-image4.png)

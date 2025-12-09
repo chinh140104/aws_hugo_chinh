@@ -71,5 +71,5 @@ I was also impressed by the practical perspective on **cost and MLOps**. The spe
 The workshop ended with a feeling of **"I can do this."** Instead of being overwhelmed by complex terminology, I felt I had a clear roadmap to start my exploration of AI/ML on AWS, beginning with the smallest practical steps.
 
 #### Some photos from the event
-![anh1 event](/images/event-image1.png)
-![anh2 event](/images/event-image2.png)
+![anh1 event](/images/4-Event/event-image1.png)
+![anh2 event](/images/4-Event/event-image2.png)

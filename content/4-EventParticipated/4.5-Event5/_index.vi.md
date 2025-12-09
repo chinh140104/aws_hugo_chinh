@@ -68,4 +68,4 @@ Club session lần này mang một không khí rất khác biệt, tập trung v
 Buổi sinh hoạt kết thúc với nhiều cảm hứng và một chút suy tư. Em nhận ra mình cần **chủ động hơn trong việc làm quen và làm chủ các công cụ này ngay từ bây giờ**, coi chúng như một phần không thể thiếu trong hành trang kỹ năng của một kỹ sư phần mềm tương lai.
 
 #### Một số hình ảnh khi tham gia sự kiện
-![anh7 event](/images/event-image7.png)
+![anh7 event](/images/4-Event/event-image7.png)

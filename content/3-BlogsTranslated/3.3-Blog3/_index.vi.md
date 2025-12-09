@@ -23,7 +23,7 @@ Amazon Q Business for Retail Intelligence là một giải pháp toàn diện ch
 Sơ đồ sau minh họa kiến trúc giải pháp.
 
 
-![anh1](/images/Blog3_image1.png)
+![anh1](/images/3-Blog/Blog3_image1.png)
 
 Giải pháp sử dụng kiến trúc AWS ở trên để cung cấp một giải pháp an toàn, hiệu suất cao và đáng tin cậy cho trí tuệ bán lẻ. Amazon Q Business đóng vai trò là công cụ generative AI chính, cho phép tương tác bằng ngôn ngữ tự nhiên và cung cấp năng lực cho các ứng dụng tùy chỉnh dành riêng cho bán lẻ. Kiến trúc này bao gồm [AWS IAM Identity Center](https://aws.amazon.com/iam/identity-center/) để xác thực và kiểm soát truy cập mạnh mẽ, và [Amazon Simple Storage Service](http://aws.amazon.com/s3) (Amazon S3) cung cấp lưu trữ hồ dữ liệu an toàn cho các nguồn dữ liệu bán lẻ. Chúng tôi sử dụng QuickSight để tạo trực quan hóa tương tác, giúp nâng cao khả năng diễn giải dữ liệu. Tính linh hoạt của giải pháp được tăng cường thêm bởi [AWS Lambda](http://aws.amazon.com/lambda) cho xử lý serverless, [Amazon API Gateway](https://aws.amazon.com/api-gateway) cho quản lý endpoint hiệu quả, và [Amazon CloudFront](https://aws.amazon.com/cloudfront/) cho phân phối nội dung được tối ưu hóa. Giải pháp này sử dụng plugin tùy chỉnh Amazon Q Business để gọi các API endpoint nhằm bắt đầu quy trình tự động hóa trực tiếp từ giao diện ứng dụng web Amazon Q Business dựa trên các truy vấn và tương tác của khách hàng.
 
@@ -42,7 +42,7 @@ Truy cập [GitHub repository](https://github.com/aws-samples/sample-amazon-qbus
 Sau khi bạn thiết lập môi trường, bạn có thể truy cập bảng điều khiển Amazon Q Business for Retail Intelligence, như minh họa trong ảnh chụp màn hình sau.
 
 
-![anh2](/images/Blog3_image2.png)
+![anh2](/images/3-Blog/Blog3_image2.png)
 
 Bạn có thể tương tác với các trực quan hóa QuickSight và giao diện trò chuyện Amazon Q Business để đặt câu hỏi bằng ngôn ngữ tự nhiên.
 
@@ -53,22 +53,22 @@ Người dùng bán lẻ có thể tương tác với giải pháp này theo nhi
 Đối với các giám đốc điều hành cấp cao hoặc lãnh đạo doanh nghiệp muốn biết doanh nghiệp của bạn đang hoạt động như thế nào, giải pháp của chúng tôi cung cấp một giao diện thống nhất, giúp truy cập và tương tác với dữ liệu định tính và định lượng của doanh nghiệp một cách dễ dàng thông qua ngôn ngữ tự nhiên. Ví dụ: người dùng có thể phân tích dữ liệu định lượng như doanh số sản phẩm hoặc hiệu quả chiến dịch marketing bằng các trực quan hóa tương tác từ QuickSight, và dữ liệu định tính như phản hồi của khách hàng từ Amazon Q Business, tất cả chỉ trong một giao diện duy nhất.
 
 
-![anh3](/images/Blog3_image3.png)
+![anh3](/images/3-Blog/Blog3_image3.png)
 
 Giả sử bạn là một nhà phân tích marketing và bạn muốn đánh giá hiệu quả chiến dịch và mức độ tiếp cận trên các kênh, đồng thời tiến hành phân tích chi tiêu quảng cáo so với doanh thu. Với Amazon Q Business, bạn có thể chạy các truy vấn phức tạp bằng các câu hỏi ngôn ngữ tự nhiên và chia sẻ Q Apps với nhiều nhóm. Giải pháp này cung cấp thông tin chi tiết tự động về hành vi khách hàng và hiệu quả chiến dịch, giúp các nhóm marketing đưa ra quyết định nhanh hơn và điều chỉnh linh hoạt để tối đa hóa ROI.
 
 
-![anh4](/images/Blog3_image4.png)
+![anh4](/images/3-Blog/Blog3_image4.png)
 
 Tương tự, giả sử bạn là một nhà hoạch định hàng hóa hoặc quản lý nhà cung cấp, và bạn muốn hiểu tác động của các sự kiện có chi phí cao đối với hoạt động kinh doanh quốc tế của bạn — nơi bạn phải xử lý việc nhập khẩu và xuất khẩu hàng hóa và dịch vụ. Bạn có thể nhập thông tin đầu vào vào Amazon Q Apps và nhận phản hồi dựa trên sản phẩm hoặc nhóm sản phẩm cụ thể đó.
 
 
-![anh5](/images/Blog3_image5.png)
+![anh5](/images/3-Blog/Blog3_image5.png)
 
 Người dùng cũng có thể gửi yêu cầu thông qua API bằng các plugin tùy chỉnh của Amazon Q Business để tương tác thời gian thực với các ứng dụng phụ trợ. Ví dụ, một **quản lý cửa hàng** có thể muốn biết những mặt hàng nào trong kho hiện tại cần được bổ sung hoặc cân bằng lại cho tuần tới dựa trên dự báo thời tiết hoặc các sự kiện thể thao địa phương.
 
 
-![anh6](/images/Blog3_image6.png)
+![anh6](/images/3-Blog/Blog3_image6.png)
 
 Để tìm hiểu thêm, hãy tham khảo bản demo hoàn chỉnh dưới đây.
 
@@ -105,31 +105,31 @@ Amazon Q Business for Retail Intelligence kết hợp khả năng generative AI 
 
 
 
-![Suprakash Dutta](/images/Blog3_image7.png)
+![Suprakash Dutta](/images/3-Blog/Blog3_image7.png)
 
 **[Suprakash Dutta](https://www.linkedin.com/in/suprakashdutta/)** là Senior Solutions Architect tại Amazon Web Services, dẫn dắt các chương trình chuyển đổi đám mây chiến lược cho các nhà bán lẻ Fortune 500 và các doanh nghiệp lớn. Ông chuyên thiết kế các giải pháp bán lẻ quan trọng dựa trên cloud, triển khai generative AI và các sáng kiến hiện đại hóa bán lẻ. Ông là một kiến trúc sư đa chứng chỉ cloud và đã cung cấp các giải pháp chuyển đổi giúp hiện đại hóa hoạt động trên hàng nghìn cửa hàng bán lẻ, đồng thời đạt được hiệu quả vượt trội thông qua các giải pháp trí tuệ bán lẻ được hỗ trợ bởi AI.
 
 
-![Alberto Alonso](/images/Blog3_image8.png)
+![Alberto Alonso](/images/3-Blog/Blog3_image8.png)
 
 **Alberto Alonso** là Specialist Solutions Architect tại Amazon Web Services. Ông tập trung vào generative AI và cách nó có thể được áp dụng cho các thách thức kinh doanh.
 
 
-![Abhijit Dutta](/images/Blog3_image9.png)
+![Abhijit Dutta](/images/3-Blog/Blog3_image9.png)
 
 **Abhijit Dutta** là Sr. Solutions Architect trong mảng Retail/CPG tại AWS, tập trung vào các lĩnh vực chính như di chuyển và hiện đại hóa ứng dụng kế thừa, ra quyết định dựa trên dữ liệu và triển khai các khả năng AI/ML. Chuyên môn của ông nằm ở việc giúp các tổ chức tận dụng công nghệ cloud cho các sáng kiến chuyển đổi số, đặc biệt nhấn mạnh vào phân tích và giải pháp generative AI.
 
 
-![Ramesh Venkataraman](/images/Blog3_image10.png)
+![Ramesh Venkataraman](/images/3-Blog/Blog3_image10.png)
 
 **Ramesh Venkataraman** là Solutions Architect, người yêu thích làm việc với khách hàng để giải quyết các thách thức kỹ thuật bằng dịch vụ AWS. Ngoài công việc, Ramesh thích theo dõi các câu hỏi trên Stack Overflow và trả lời bất cứ khi nào có thể.
 
 
-![Girish Nazhiyath](/images/Blog3_image11.png)
+![Girish Nazhiyath](/images/3-Blog/Blog3_image11.png)
 
 **Girish Nazhiyath** là Sr. Solutions Architect trong mảng Retail/CPG của Amazon Web Services. Ông thích làm việc với khách hàng bán lẻ/CPG để thúc đẩy đổi mới bán lẻ dựa trên công nghệ, với hơn 20 năm kinh nghiệm trong nhiều lĩnh vực và phân khúc bán lẻ trên toàn cầu.
 
 
-![Krishnan Hariharan](/images/Blog3_image12.png)
+![Krishnan Hariharan](/images/3-Blog/Blog3_image12.png)
 
 **Krishnan Hariharan** là Sr. Manager, Solutions Architecture tại AWS, có trụ sở tại Chicago. Trong vai trò hiện tại, ông sử dụng sự kết hợp đa dạng giữa kỹ năng khách hàng, sản phẩm, công nghệ và vận hành để giúp khách hàng bán lẻ/CPG xây dựng các giải pháp tối ích bằng AWS. Trước khi gia nhập AWS, Krishnan từng là Chủ tịch/CEO tại Kespry và COO tại LightGuide. Ông có bằng MBA từ The Fuqua School of Business, Đại học Duke, và Cử nhân Khoa học ngành Điện tử từ Đại học Delhi.

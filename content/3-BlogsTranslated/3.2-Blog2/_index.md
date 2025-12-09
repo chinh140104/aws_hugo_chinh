@@ -23,7 +23,7 @@ In today's digital landscape, businesses face increasingly complex security chal
 Managed Security Service Providers (MSSPs) help address these challenges by providing comprehensive security solutions that transform how organizations approach cloud security. As a single point of contact, they coordinate multiple security capabilities, from native AWS services to industry-leading security tools. 
 
 
-![Managed Security Service Providers](/images/Blog2_image1.png)
+![Managed Security Service Providers](/images/3-Blog/Blog2_image1.png)
 
 To support these evolving needs, we're excited to introduce new categories for the [AWS MSSP Competency](https://aws.amazon.com/mssp/partner-solutions/) (formerly AWS Level 1 MSSP Competency), designed to help customers easily identify Partners with security expertise based on their specific requirements. The new MSSP Competency categories validate the capability of Service Partners to deliver turnkey outcomes incorporating native AWS services, and the ability of Software Partners to integrate with native AWS services.
 

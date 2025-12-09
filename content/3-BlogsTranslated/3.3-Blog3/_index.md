@@ -23,7 +23,7 @@ Amazon Q Business for Retail Intelligence is a comprehensive solution that trans
 The following diagram illustrates the solution architecture.
 
 
-![Solution Architecture](/images/Blog3_image1.png)
+![Solution Architecture](/images/3-Blog/Blog3_image1.png)
 
 The solution uses the AWS architecture above to deliver a secure, high-performance, and reliable solution for retail intelligence. Amazon Q Business serves as the primary generative AI engine, enabling natural language interaction and powering custom retail-specific applications. This architecture includes [AWS IAM Identity Center](https://aws.amazon.com/iam/identity-center/) for robust authentication and access control, and [Amazon Simple Storage Service](http://aws.amazon.com/s3) (Amazon S3) providing secure data lake storage for retail data sources. We use QuickSight to create interactive visualizations, enhancing data interpretability. The solution's flexibility is further enhanced by [AWS Lambda](http://aws.amazon.com/lambda) for serverless processing, [Amazon API Gateway](https://aws.amazon.com/api-gateway) for efficient endpoint management, and [Amazon CloudFront](https://aws.amazon.com/cloudfront/) for optimized content delivery. This solution uses custom Amazon Q Business plugins to call API endpoints to initiate automation processes directly from the Amazon Q Business web application interface based on customer queries and interactions.
 
@@ -42,7 +42,7 @@ Visit the [GitHub repository](https://github.com/aws-samples/sample-amazon-qbusi
 Once you set up the environment, you can access the Amazon Q Business for Retail Intelligence dashboard, as illustrated in the following screenshot.
 
 
-![Retail Intelligence Dashboard](/images/Blog3_image2.png)
+![Retail Intelligence Dashboard](/images/3-Blog/Blog3_image2.png)
 
 You can interact with QuickSight visualizations and the Amazon Q Business chat interface to ask questions using natural language.
 
@@ -53,22 +53,22 @@ Retail users can interact with this solution in various ways. In this section, w
 For senior executives or business leaders who want to know how your business is performing, our solution provides a unified interface, making it easy to access and interact with both qualitative and quantitative business data through natural language. For example: users can analyze quantitative data like product sales or marketing campaign effectiveness using interactive visualizations from QuickSight, and qualitative data like customer feedback from Amazon Q Business, all within a single interface.
 
 
-![Unified Interface](/images/Blog3_image3.png)
+![Unified Interface](/images/3-Blog/Blog3_image3.png)
 
 Suppose you are a marketing analyst and you want to evaluate campaign effectiveness and reach across channels, while conducting advertising spend versus revenue analysis. With Amazon Q Business, you can run complex queries using natural language questions and share Q Apps with multiple teams. This solution provides automated insights into customer behavior and campaign performance, helping marketing teams make faster decisions and adjust flexibly to maximize ROI.
 
 
-![Marketing Campaign Information](/images/Blog3_image4.png)
+![Marketing Campaign Information](/images/3-Blog/Blog3_image4.png)
 
 Similarly, suppose you are a merchandiser or supplier manager, and you want to understand the impact of high-cost events on your international business—where you need to handle import and export of goods and services. You can input information into Amazon Q Apps and receive feedback based on that specific product or product group.
 
 
-![Alternative Products](/images/Blog3_image5.png)
+![Alternative Products](/images/3-Blog/Blog3_image5.png)
 
 Users can also submit requests via API using custom Amazon Q Business plugins for real-time interaction with backend applications. For example, a **store manager** might want to know which items in current inventory need to be replenished or rebalanced for the upcoming week based on weather forecasts or local sports events.
 
 
-![Store Manager Dashboard](/images/Blog3_image6.png)
+![Store Manager Dashboard](/images/3-Blog/Blog3_image6.png)
 
 To learn more, refer to the complete demo below.
 
@@ -105,31 +105,31 @@ To learn more about our solutions and services, please refer to [Amazon Q Busine
 
 
 
-![Suprakash Dutta](/images/Blog3_image7.png)
+![Suprakash Dutta](/images/3-Blog/Blog3_image7.png)
 
 **[Suprakash Dutta](https://www.linkedin.com/in/suprakashdutta/)** is a Senior Solutions Architect at Amazon Web Services, leading strategic cloud transformation programs for Fortune 500 retailers and large enterprises. He specializes in designing mission-critical cloud-based retail solutions, implementing generative AI, and retail modernization initiatives. He is a multi-certified cloud architect and has delivered transformation solutions that modernize operations across thousands of retail stores while achieving superior efficiency through AI-powered retail intelligence solutions.
 
 
-![Alberto Alonso](/images/Blog3_image8.png)
+![Alberto Alonso](/images/3-Blog/Blog3_image8.png)
 
 **Alberto Alonso** is a Specialist Solutions Architect at Amazon Web Services. He focuses on generative AI and how it can be applied to business challenges.
 
 
-![Abhijit Dutta](/images/Blog3_image9.png)
+![Abhijit Dutta](/images/3-Blog/Blog3_image9.png)
 
 **Abhijit Dutta** is a Sr. Solutions Architect in the Retail/CPG segment at AWS, focusing on key areas such as legacy application migration and modernization, data-driven decision making, and AI/ML capability deployment. His expertise lies in helping organizations leverage cloud technology for digital transformation initiatives, with particular emphasis on analytics and generative AI solutions.
 
 
-![Ramesh Venkataraman](/images/Blog3_image10.png)
+![Ramesh Venkataraman](/images/3-Blog/Blog3_image10.png)
 
 **Ramesh Venkataraman** is a Solutions Architect who enjoys working with customers to solve technical challenges using AWS services. Outside of work, Ramesh enjoys following questions on Stack Overflow and answering whenever possible.
 
 
-![Girish Nazhiyath](/images/Blog3_image11.png)
+![Girish Nazhiyath](/images/3-Blog/Blog3_image11.png)
 
 **Girish Nazhiyath** is a Sr. Solutions Architect in the Retail/CPG segment of Amazon Web Services. He enjoys working with retail/CPG customers to drive technology-based retail innovation, with over 20 years of experience across multiple retail domains and segments globally.
 
 
-![Krishnan Hariharan](/images/Blog3_image12.png)
+![Krishnan Hariharan](/images/3-Blog/Blog3_image12.png)
 
 **Krishnan Hariharan** is a Sr. Manager, Solutions Architecture at AWS, based in Chicago. In his current role, he uses a diverse combination of customer, product, technology, and operational skills to help retail/CPG customers build optimal solutions with AWS. Before joining AWS, Krishnan was President/CEO at Kespry and COO at LightGuide. He holds an MBA from The Fuqua School of Business, Duke University, and a Bachelor of Science in Electronics from Delhi University.

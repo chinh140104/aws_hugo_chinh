@@ -68,4 +68,4 @@ The most resonant message was that **"AI empowers, not replaces."** The speakers
 The session ended with much inspiration and some reflection. I realized I need to be **more proactive in familiarizing myself and mastering these tools starting now**, treating them as an indispensable part of the skillset for a future software engineer.
 
 #### Some photos from the event
-![anh7 event](/images/event-image7.png)
+![anh7 event](/images/4-Event/event-image7.png)

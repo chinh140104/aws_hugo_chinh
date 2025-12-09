@@ -23,7 +23,7 @@ Trong bối cảnh kỹ thuật số ngày nay, các doanh nghiệp đang phải
 Managed Security Service Providers (MSSP) giúp giải quyết những thách thức này bằng cách cung cấp các giải pháp bảo mật toàn diện để chuyển đổi cách các tổ chức tiếp cận bảo mật đám mây. Là một điểm liên hệ duy nhất, họ điều phối nhiều khả năng bảo mật, từ các dịch vụ gốc AWS đến các công cụ bảo mật tốt nhất trong ngành. 
 
 
-![anh1](/images/Blog2_image1.png)
+![anh1](/images/3-Blog/Blog2_image1.png)
 
 Để hỗ trợ những nhu cầu đang phát triển này, chúng tôi rất vui được giới thiệu các danh mục mới cho [AWS MSSP Competency](https://aws.amazon.com/mssp/partner-solutions/) (trước đây là AWS Level 1 MSSP Competency), được thiết kế để giúp khách hàng dễ dàng xác định các Đối tác có chuyên môn bảo mật dựa trên nhu cầu riêng của họ. Các danh mục MSSP Competency mới xác thực khả năng của các Đối tác dịch vụ trong việc cung cấp kết quả turnkey bao gồm các dịch vụ gốc AWS, và khả năng của các Đối tác phần mềm trong việc tích hợp với các dịch vụ gốc AWS.
 

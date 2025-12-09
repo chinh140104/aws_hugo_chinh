@@ -86,5 +86,5 @@ Em cũng ấn tượng với việc các diễn giả liên tục nhấn mạnh 
 Buổi học kết thúc với cảm giác **có trách nhiệm hơn**. Em nhận ra mình cần phải chủ động học hỏi và áp dụng các nguyên tắc bảo mật ngay từ những dự án nhỏ nhất, vì một cấu hình sai trên cloud có thể dẫn đến hậu quả lớn chỉ trong vài phút.
 
 #### Một số hình ảnh khi tham gia sự kiện
-![anh5 event](/images/event-image5.png)
-![anh6 event](/images/event-image6.png)
+![anh5 event](/images/4-Event/event-image5.png)
+![anh6 event](/images/4-Event/event-image6.png)
