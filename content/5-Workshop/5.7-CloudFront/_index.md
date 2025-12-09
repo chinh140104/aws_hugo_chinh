@@ -24,7 +24,7 @@ Before finalizing CloudFront setup, you must ensure the S3 Bucket **`taskhub-fro
 * **Check:** The **Permissions** tab of the S3 Bucket.
 * **Block public access (bucket settings):** Must be in the **On** state (`Block all public access`).
 ![anh2](/images/5-workshop/5.7-CloudFront/image2.png)
-* **Bucket policy (Final Confirmation):** Must contain the **OAC Policy** that is **automatically updated by CloudFront**.
+* **Bucket policy (Final Confirmation):** Must contain the **OAC Policy** that is  **automatically updated by CloudFront** .
 
 ---
 

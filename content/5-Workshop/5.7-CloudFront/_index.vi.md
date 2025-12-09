@@ -91,6 +91,6 @@ Sau khi Distribution chuyển sang trạng thái **`Deploying`**, bạn thực h
 1.  **Truy cập S3 Bucket** `taskhub-frontend-prod`.
 2.  Vào tab **"Permissions"**.
 3.  Tìm mục **"Bucket policy"**.
-4.  **Xác nhận:** Policy phải được cập nhật tự động và chứa đoạn JSON ủy quyền cho dịch vụ CloudFront. Điều này chứng tỏ OAC đã khóa truy cập trực tiếp và chỉ cho phép CloudFront đọc tệp.
+4.  **Xác nhận:** Policy phải được cập nhật tự động và chứa đoạn JSON ủy quyền cho dịch vụ CloudFront. Điều này chứng tỏ OAC đã khóa truy cập trực tiếp và chỉ cho phép CloudFront đọc tệp .
 
 ![anh3](/images/5-workshop/5.7-CloudFront/image3.png)
